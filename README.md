@@ -2,7 +2,6 @@
 
 #### cool people
 - [@cazzwastaken]( https://github.com/cazzwastaken/ )
-- [@xnf40]( https://github.com/xnf40/ )
 - [@danielkrupinski]( https://github.com/danielkrupinski )
 
 #### i like
