@@ -1,17 +1,30 @@
-### introduction
+<h1 align="center">Hi 👋, I'm wrzxw</h1>
+<h3 align="center">A passionate python developer from England</h3>
 
-#### cool people
-- [@cazzwastaken]( https://github.com/cazzwastaken/ )
-- [@danielkrupinski]( https://github.com/danielkrupinski )
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wrzxw&label=Profile%20views&color=0e75b6&style=flat" alt="wrzxw" /> </p>
 
-#### i like
-[![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=1870d5&style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://) [![C](https://img.shields.io/static/v1?label=&message=C&color=b5e1e3&style=for-the-badge&logo=c&logoColor=white)](https://) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=1a1aff&style=for-the-badge&logo=python&logoColor=white)](https://) [![Visual Studio](https://img.shields.io/static/v1?label=&message=Visual+Studio&color=cc00cc&style=for-the-badge&logo=visual-studio&logoColor=white)](https://) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=00ff00&style=for-the-badge&logo=node.js&logoColor=white)](https://) [![React](https://img.shields.io/static/v1?label=&message=React&color=66ccff&style=for-the-badge&logo=react&logoColor=white)](https://) [![Ruby](https://img.shields.io/static/v1?label=&message=Ruby&color=ff0000&style=for-the-badge&logo=ruby&logoColor=white)](https://) [![And more](https://img.shields.io/static/v1?label=&message=And+more&color=000000&style=for-the-badge)](https://)
-#### trash stuff
-- PHP
-- VBA
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wrzxw" alt="wrzxw" /></a> </p>
 
-#### relatable memes
-![image](https://github.com/wrzxw/wrzxw/assets/116313580/63d2371e-146e-4570-8aba-9ba09d0cfb9e)
+- 🔭 I’m currently working on **archives.**
 
-#### my personal rating of programming languages
-![image](https://github.com/wrzxw/wrzxw/assets/116313580/42905d8c-9a22-428b-b150-f97560d15d34)
+- 🌱 I’m currently learning **C++.**
+
+- 👯 I’m looking to collaborate on **anything helpful ;)**
+
+- 🤝 I’m looking for help with **anyone who needs help.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/wrzxw](https://github.com/wrzxw)
+
+- 💬 Ask me about **python**
+
+- 📫 How to reach me **hubofcloud@gmail.com**
+
+- ⚡ Fun fact **My IQ is 131 last year**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/wrzxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wrzxw" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
