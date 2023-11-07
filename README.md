@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/wrzxw](https://github.com/wrzxw)
 
-- 💬 Ask me about **python**
+- 💬 Ask me anything about **python**
 
-- 📫 How to reach me **hubofcloud@gmail.com**
+- 📫 How to reach me: **hubofcloud@gmail.com**
 
-- ⚡ Fun fact **My IQ is 131 last year**
+- ⚡ Fun fact: **My IQ is 131 last year**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
