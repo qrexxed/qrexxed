@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wrzxw" alt="wrzxw" /></a> </p>
 
-- 🔭 I’m currently working on **archives.**
+- 🔭 I’m currently working on **M.U.G.E.N**
 
 - 🌱 I’m currently learning **C++.**
 
@@ -20,13 +20,6 @@
 - 📫 How to reach me: **hubofcloud@gmail.com**
 
 - ⚡ Fun fact: **My IQ is 131 last year**
-
-- ⚡ My projects:
-
-<p align="middle"> <img src="https://github.com/wrzxw/ciel/blob/main/images/Untitled1.png?raw=true" alt="ciel" /> </p>
-<h2 align="middle">Ciel's Archive</h1>
-<p align="middle">One of the biggest archives full of programs that are helpful, cracked clients, autoclickers and more!</p>
-<p align="middle">You can find more about this project at https://wrzxw.github.io/ciel /</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
