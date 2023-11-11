@@ -26,7 +26,7 @@
 <p align="middle"> <img src="https://github.com/wrzxw/ciel/blob/main/images/Untitled1.png?raw=true" alt="ciel" /> </p>
 <h2 align="middle">Ciel's Archive</h1>
 <p align="middle">One of the biggest archives full of programs that are helpful, cracked clients, autoclickers and more!</p>
-<p align="middle">You can find more about this project at (here)[https://wrzxw.github.io/ciel]/</p>
+<p align="middle">You can find more about this project at https://wrzxw.github.io/ciel /</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
