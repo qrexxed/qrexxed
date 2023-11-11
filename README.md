@@ -24,7 +24,7 @@
 - ⚡ My projects:
 
 <p align="middle"> <img src="https://github.com/wrzxw/ciel/blob/main/images/Untitled1.png?raw=true" alt="ciel" /> </p>
-<h2 align="middle">Ciel's Archive</h1>
+<h3 align="middle">Ciel's Archive</h1>
 <p align="middle">One of the biggest archives full of programs that are helpful, cracked clients, autoclickers and more!</p>
 
 <h3 align="left">Connect with me:</h3>
