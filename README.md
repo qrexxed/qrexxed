@@ -21,6 +21,10 @@
 
 - ⚡ Fun fact: **My IQ is 131 last year**
 
+- ⚡ My projects:
+
+<p align="middle"> <img src="https://github.com/wrzxw/ciel/blob/main/images/Untitled1.png?raw=true" alt="ciel" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/wrzxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wrzxw" height="30" width="40" /></a>
