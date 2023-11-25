@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Pirate11<br>🌱 I'm learning Python and C++<br>❓ Ask me anything about Piracy<br>⚡ Fun fact: Notepad++ owns Sublime
+🔭 I'm currently working on Pirate11<br>🌱 I'm learning Python and C++<br>❓ Ask me anything about Piracy<br>⚡ Fun fact: Notepad++ owns Sublime<br> ✨ My bio: https://undefined.rip/zy
 
 
 # 💻 Tech Stack:
